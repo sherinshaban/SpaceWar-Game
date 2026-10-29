@@ -1,4 +1,3 @@
-# SpaceWar-Game
 # 🚀 Rocket Shooter (Greenfoot)
 
 A 2D space shooter built with Java and Greenfoot.
@@ -16,5 +15,4 @@ A 2D space shooter built with Java and Greenfoot.
 3. Click **Run**
 
 ## Screenshot
-![gameplay](<img width="790" height="527" alt="image" src="https://github.com/user-attachments/assets/7a0634a0-46d5-42a6-af01-c2503f04b628" />
-))
+![gameplay](![alt text](image.png))

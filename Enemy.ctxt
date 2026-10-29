@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Enemy
+comment1.params=
+comment1.target=Enemy()
+comment2.params=
+comment2.target=boolean\ sudahHancur()
+comment3.params=v
+comment3.target=Enemy(int)
+comment4.params=Latar
+comment4.target=void\ addedToWorld(greenfoot.World)
+comment5.params=
+comment5.target=void\ move()
+comment6.params=
+comment6.target=void\ HanCur()
+comment7.params=
+comment7.target=void\ act()
+numComments=8
